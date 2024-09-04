@@ -1,0 +1,4 @@
+psutil - used for retrieving information on running processes and system utilization
+flask - lightweight python web framework which allows us to build web applications and APIs
+boto3- create, manage and conifgure AWS services
+
